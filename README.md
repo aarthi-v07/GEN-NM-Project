@@ -1,1 +1,1 @@
-# GEN-NM-Project
+# Edu-Project
